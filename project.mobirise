@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aash Portfolio",
-    "currentPage": "Bio 2.html",
+    "currentPage": "Bio2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -872,7 +872,7 @@
         }
       ]
     },
-    "Bio 2.html": {
+    "Bio2.html": {
       "settings": {
         "meta_descr": "About Aashik J Krishnan",
         "title": "bio 2",
